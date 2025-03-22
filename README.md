@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Telegram Mini App game
+- 🌱 I’m currently learning python
+  
 <!--
 **FastPhpCoder/FastPhpCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
